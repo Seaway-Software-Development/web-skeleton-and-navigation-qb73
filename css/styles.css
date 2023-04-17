@@ -36,12 +36,11 @@ h1 {
 
 nav {
     background-color: #0D3B66;
-    text-decoration: none;
-    list-style-type: none;
+    
 }
 
 nav ul {
-
+    list-style-type: none;
 }
 
 nav li {
@@ -49,7 +48,8 @@ nav li {
 }
 
 nav a {
-
+    color: #F4D35E;
+    text-decoration: none;
 }
 
 nav a:hover {
