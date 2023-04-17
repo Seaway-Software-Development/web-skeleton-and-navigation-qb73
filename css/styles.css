@@ -9,3 +9,55 @@ F4D35E - Gold
     padding: 0;
     margin: 0;
 }
+
+/* Body Styles */
+
+body {
+    background-color: #FAF0CA;
+}
+
+/* Header Styles */
+
+header {
+    background-color: #0D3B66;
+    padding: 75px 40px;
+}
+
+blockquote {
+    color: #F4D35E;
+    font-size: 4em;
+}
+
+h1 {
+
+}
+
+/* Navigation Styles */
+
+nav {
+    background-color: #0D3B66;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+nav ul {
+
+}
+
+nav li {
+
+}
+
+nav a {
+
+}
+
+nav a:hover {
+
+}
+
+/* Unused Tags */
+
+table {
+
+}
