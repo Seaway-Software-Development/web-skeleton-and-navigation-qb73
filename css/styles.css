@@ -25,6 +25,7 @@ header {
 
 blockquote {
     color: #F4D35E;
+    text-align: center;
     font-size: 4em;
 }
 
@@ -36,7 +37,7 @@ h1 {
 
 nav {
     background-color: #0D3B66;
-    
+    padding: 40px 75px;
 }
 
 nav ul {
@@ -49,11 +50,14 @@ nav li {
 
 nav a {
     color: #F4D35E;
+    padding: 40px 75px;
     text-decoration: none;
 }
 
 nav a:hover {
-
+    color: #0D3B66;
+    background-color: #F4D35E;
+    font-size: 1.5em;
 }
 
 /* Unused Tags */
